@@ -38,6 +38,7 @@ Para criar o projeto basta ir em **File**,  selecionar **New** e depois **Projec
 ![{C4058A69-7D82-469F-AAB9-326EF3A1B642}](https://github.com/user-attachments/assets/08e44e69-c6bf-4fa5-b097-817e114af47c)
 
 Tenho o costume de usar Maven, com isso o projeto fica assim:
+
 ![image](https://github.com/user-attachments/assets/076a65cb-7c34-44a9-af9b-52ca9f9d79d8)
 
 
