@@ -349,7 +349,7 @@ public class TestMain {
 
 ## Fontes
 - Material de aula
-- Videos sobre java do youtube, principalmente: https://www.youtube.com/watch?v=ZjPotaffGks&list=PLesCEcYj003RzkQBaNOOl7zwlIGOfeo1y
+- https://www.youtube.com/watch?v=ZjPotaffGks&list=PLesCEcYj003RzkQBaNOOl7zwlIGOfeo1y
 - https://www.inf.pucrs.br/flash/lapro2/lapro2_heranca.pdf
 - https://www.freecodecamp.org/portuguese/news/principios-de-programacao-orientada-a-objetos-em-java-conceitos-de-poo-para-iniciantes/
 
