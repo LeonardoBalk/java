@@ -9,6 +9,17 @@ Esse programa em Java é um sistema para gerenciar o acesso ao RU que permite ve
 -   **Classes e Objetos**: Conceitos fundamentais de POO. Uma classe define atributos e comportamentos. Um objeto é uma instância de uma classe, uma realização concreta e particular de uma classe.
 
 
+## Recomendação
+Baixar e instalar o **IntelliJ IDEA Ultimate**. Provavelmente a IDE mais usada para Java, simples, fácil de usar e muito útil. O que pode ser desvantagem  no início, mas vai acabar sendo muito bom depois, é que a IDE automatiza muito, muitas vezes basta pressionar a tecla **Tab** para completar o código. No início, pode ser ruim se acostumar com esse ambiente "automático", pois, caso seja necessário programar em outro ambiente ou até mesmo no papel, pode ser complicado se adaptar.
+
+### Baixar o IntelliJ IDEA Ultimate
+
+Primeiro, é necessário acessar https://www.jetbrains.com/shop/eform/students e criar uma conta vinculada com o e-mail acadêmico ou vincular com uma conta estudante do GitHub.
+Depois disso, basta baixar a IDE em https://www.jetbrains.com/idea/download/?section=windows e realizar a instalação.
+No fim da instalação vai aparecer o seguinte:
+![](file:///C:/Users/Leonardo/Downloads/Captura%20de%20tela%202024-11-06%20224745.png)
+
+
 ## Classes e Código
 
 ### Classe `Pessoa`
