@@ -347,4 +347,11 @@ public class TestMain {
 ### Rodando...
 ![java-main-–-TestMain java-2024-11-06-22-37-03](https://github.com/user-attachments/assets/b12a64ad-481a-499e-9a03-109df9fd481f)
 
+## Fontes
+- Material de aula
+- Videos sobre java do youtube, principalmente: https://www.youtube.com/watch?v=ZjPotaffGks&list=PLesCEcYj003RzkQBaNOOl7zwlIGOfeo1y
+- https://www.inf.pucrs.br/flash/lapro2/lapro2_heranca.pdf
+- https://www.freecodecamp.org/portuguese/news/principios-de-programacao-orientada-a-objetos-em-java-conceitos-de-poo-para-iniciantes/
+
+
 
