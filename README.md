@@ -285,11 +285,11 @@ public class TestMain {
 
         //exibe as informações e verifica se o aluno pode almoçar (Aluno 1)
         System.out.println("Informações do Aluno (a) 1:");
-        aluno1.exibirInformacoesPessoa(); // Exibe as informações básicas da pessoa
-        aluno1.exibirInformacoes(); // Exibe informações específicas do aluno
-        System.out.println("Aluno (a) " + aluno1.nome + " pode almoçar? " + aluno1.podeAlmocar(3.0f)); // Verifica se o aluno pode almoçar
-        aluno1.almocou(aluno1.podeAlmocar(aluno1.creditos)); // Processa o almoço do aluno
-        System.out.println("Créditos: R$" + aluno1.creditos); // Exibe os créditos restantes
+        aluno1.exibirInformacoesPessoa(); //exibe as informações básicas da pessoa
+        aluno1.exibirInformacoes(); //exibe informações específicas do aluno
+        System.out.println("Aluno (a) " + aluno1.nome + " pode almoçar? " + aluno1.podeAlmocar(3.0f)); //verifica se o aluno pode almoçar
+        aluno1.almocou(aluno1.podeAlmocar(aluno1.creditos)); //processa o almoço do aluno
+        System.out.println("Créditos: R$" + aluno1.creditos); //exibe os créditos restantes
         System.out.println("\n");
 
         //exibe as informações e verifica se o aluno pode almoçar (Aluno 2)
