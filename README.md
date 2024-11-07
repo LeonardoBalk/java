@@ -1,4 +1,6 @@
 
+
+
 # Sistema de Gerenciamento da Entrada de Alunos e Professores no Restaurante Universitário (RU)
 Esse programa em Java é um sistema para gerenciar o acesso ao RU que permite verificar se alunos e professores podem almoçar com base em créditos. A ideia é que se imagine que na hora que é escaneado o código de barras na entrada, aconteça o que foi implementado no código.
 
@@ -10,15 +12,33 @@ Esse programa em Java é um sistema para gerenciar o acesso ao RU que permite ve
 
 
 ## Recomendação
-Baixar e instalar o **IntelliJ IDEA Ultimate**. Provavelmente a IDE mais usada para Java, simples, fácil de usar e muito útil. O que pode ser desvantagem  no início, mas vai acabar sendo muito bom depois, é que a IDE automatiza muito, muitas vezes basta pressionar a tecla **Tab** para completar o código. No início, pode ser ruim se acostumar com esse ambiente "automático", pois, caso seja necessário programar em outro ambiente ou até mesmo no papel, pode ser complicado se adaptar.
+Primeiramente, instalar o Java: 
+https://www.treinaweb.com.br/blog/como-instalar-o-java-e-nosso-primeiro-exemplo
+
+Depois, baixar e instalar o **IntelliJ IDEA Ultimate**. Provavelmente a IDE mais usada para Java, simples, fácil de usar e muito útil. O que pode ser desvantagem  no início, mas vai acabar sendo muito bom depois, é que a IDE automatiza muito, muitas vezes basta pressionar a tecla **Tab** para completar o código. No início, pode ser ruim se acostumar com esse ambiente "automático", pois, caso seja necessário programar em outro ambiente ou até mesmo no papel, pode ser complicado se adaptar.
 
 ### Baixar o IntelliJ IDEA Ultimate
 
-Primeiro, é necessário acessar https://www.jetbrains.com/shop/eform/students e criar uma conta vinculada com o e-mail acadêmico ou vincular com uma conta estudante do GitHub.
-Depois disso, basta baixar a IDE em https://www.jetbrains.com/idea/download/?section=windows e realizar a instalação.
-No fim da instalação vai aparecer o seguinte:
+- Primeiro, é necessário acessar https://www.jetbrains.com/shop/eform/students e criar uma conta vinculada com o e-mail acadêmico ou vincular com uma conta estudante do GitHub.
+- Depois disso, basta baixar a IDE em https://www.jetbrains.com/idea/download/?section=windows e realizar a instalação.
+- Após instalar, crie um projeto e no canto superior selecione a opção **Help** e depois a opção **Register...**.
+
+![{39E983B3-EB63-4ABB-A489-EBC537D885C1}](https://github.com/user-attachments/assets/423374a0-4c58-48d0-b40d-e3aab89630f6)
+
+Abrirá uma tela, selecione o botão para fazer login na sua conta JetBrains. Vai ser redirecionado para a tela de login no navegador, após isso o **IntelliJ IDEA Ultimate** está pronto para ser usado.
 
 ![Captura de tela 2024-11-06 224745](https://github.com/user-attachments/assets/b7522659-e064-47b7-8ab7-1f533061047b)
+
+Para criar o projeto basta ir em **File**,  selecionar **New** e depois **Project...**.  Diferença entre as builds: 
+-   **Build no IntelliJ**: Compila o código diretamente na IDE, sem necessidade de ferramentas externas. Simples e rápida.
+-   **Maven**: Gerencia dependências e build usando um arquivo XML, com convenções e menos flexibilidade. Mais usado em projetos tradicionais.
+-   **Gradle**: Mais flexível e rápido, usa Groovy ou Kotlin para configuração, ideal para projetos modernos e builds incrementais.
+
+![{C4058A69-7D82-469F-AAB9-326EF3A1B642}](https://github.com/user-attachments/assets/08e44e69-c6bf-4fa5-b097-817e114af47c)
+
+Tenho o costume de usar Maven, com isso o projeto fica assim:
+![image](https://github.com/user-attachments/assets/076a65cb-7c34-44a9-af9b-52ca9f9d79d8)
+
 
 
 
