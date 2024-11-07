@@ -17,7 +17,8 @@ Baixar e instalar o **IntelliJ IDEA Ultimate**. Provavelmente a IDE mais usada p
 Primeiro, é necessário acessar https://www.jetbrains.com/shop/eform/students e criar uma conta vinculada com o e-mail acadêmico ou vincular com uma conta estudante do GitHub.
 Depois disso, basta baixar a IDE em https://www.jetbrains.com/idea/download/?section=windows e realizar a instalação.
 No fim da instalação vai aparecer o seguinte:
-![](file:///C:/Users/Leonardo/Downloads/Captura%20de%20tela%202024-11-06%20224745.png)
+![Captura de tela 2024-11-06 224745](https://github.com/user-attachments/assets/b7522659-e064-47b7-8ab7-1f533061047b)
+
 
 
 ## Classes e Código
